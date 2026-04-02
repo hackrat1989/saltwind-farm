@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 420" width="280" height="420">
+  <!-- Dark rich background -->
+  <rect width="280" height="420" rx="6" fill="#2A1508"/>
+  <!-- Outer border -->
+  <rect x="10" y="10" width="260" height="400" rx="4" fill="none" stroke="#8B5E2A" stroke-width="1.2"/>
+  <!-- Inner border -->
+  <rect x="16" y="16" width="248" height="388" rx="3" fill="none" stroke="#6B4A1E" stroke-width="0.5"/>
+
+  <!-- Farm name header -->
+  <text x="140" y="56" text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="10" font-weight="600" letter-spacing="5"
+    fill="#C8A060">SALTWIND FARM</text>
+
+  <!-- Divider -->
+  <line x1="50" y1="66" x2="230" y2="66" stroke="#6B4A1E" stroke-width="0.8"/>
+
+  <!-- Product name -->
+  <text x="140" y="128" text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="50" font-weight="700"
+    fill="#F5E6D0">Fig Jam</text>
+
+  <!-- Subtitle -->
+  <text x="140" y="156" text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="11" font-weight="400" letter-spacing="3"
+    fill="#C8A060">FIVE OLD TREES</text>
+
+  <!-- Mid divider -->
+  <line x1="50" y1="174" x2="230" y2="174" stroke="#6B4A1E" stroke-width="0.8"/>
+
+  <!-- Illustrated fig (simple) -->
+  <g transform="translate(140,250)">
+    <!-- Fig body -->
+    <ellipse cx="0" cy="10" rx="38" ry="44" fill="#4A1A30" stroke="#7A3050" stroke-width="1.2"/>
+    <!-- Fig interior blush at neck -->
+    <ellipse cx="0" cy="-22" rx="12" ry="10" fill="#3A1428" stroke="#6B2840" stroke-width="0.8"/>
+    <!-- Interior texture suggestion -->
+    <ellipse cx="0" cy="14" rx="20" ry="24" fill="#6B2840" opacity="0.4"/>
+    <!-- Seeds suggestion -->
+    <circle cx="-6" cy="8" r="2" fill="#9B4860" opacity="0.6"/>
+    <circle cx="6" cy="12" r="2" fill="#9B4860" opacity="0.6"/>
+    <circle cx="0" cy="20" r="2" fill="#9B4860" opacity="0.6"/>
+    <circle cx="-10" cy="18" r="1.5" fill="#9B4860" opacity="0.5"/>
+    <circle cx="10" cy="6" r="1.5" fill="#9B4860" opacity="0.5"/>
+    <!-- Stem -->
+    <line x1="0" y1="-32" x2="0" y2="-52" stroke="#3A5A2A" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Leaf -->
+    <path d="M0,-44 Q-18,-58 -24,-44 Q-12,-36 0,-44Z" fill="#3A5A2A" stroke="#2A4A1A" stroke-width="0.8"/>
+    <path d="M0,-44 Q18,-56 22,-42 Q10,-34 0,-44Z" fill="#3A5A2A" stroke="#2A4A1A" stroke-width="0.8"/>
+  </g>
+
+  <!-- Lower divider -->
+  <line x1="50" y1="322" x2="230" y2="322" stroke="#6B4A1E" stroke-width="0.8"/>
+
+  <!-- Provenance -->
+  <text x="140" y="346" text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="10" font-weight="400" letter-spacing="1"
+    fill="#C8A060">Whidbey Island, Washington</text>
+  <text x="140" y="364" text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="10" font-weight="400" letter-spacing="1"
+    fill="#A88040">Made in small batches</text>
+
+  <!-- Divider -->
+  <line x1="80" y1="376" x2="200" y2="376" stroke="#6B4A1E" stroke-width="0.5"/>
+
+  <!-- Domain -->
+  <text x="140" y="394" text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="9" font-weight="400" letter-spacing="2"
+    fill="#8A6A30">saltwind.farm</text>
+</svg>

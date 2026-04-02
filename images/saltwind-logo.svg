@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" width="480" height="200">
+  <rect width="480" height="200" fill="#FAFAF7"/>
+
+  <!-- SALTWIND in strong serif caps -->
+  <text
+    x="240" y="82"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="62"
+    font-weight="700"
+    letter-spacing="6"
+    fill="#1B3A2D">SALTWIND</text>
+
+  <!-- Ruled line -->
+  <line x1="60" y1="102" x2="420" y2="102" stroke="#1B3A2D" stroke-width="1.2"/>
+
+  <!-- FARM in spaced small caps -->
+  <text
+    x="240" y="134"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="28"
+    font-weight="400"
+    letter-spacing="14"
+    fill="#1B3A2D">FARM</text>
+
+  <!-- WHIDBEY ISLAND in fine spaced sans -->
+  <text
+    x="240" y="162"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="13"
+    font-weight="400"
+    letter-spacing="5"
+    fill="#5A7A65">WHIDBEY ISLAND</text>
+</svg>

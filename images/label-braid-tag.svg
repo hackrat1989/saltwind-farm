@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 300" width="200" height="300">
+  <!-- Kraft tag background -->
+  <rect width="200" height="300" rx="6" fill="#EDE0C4"/>
+  <!-- Border -->
+  <rect x="8" y="8" width="184" height="284" rx="4" fill="none" stroke="#B89A60" stroke-width="1"/>
+
+  <!-- Hole at top for string -->
+  <circle cx="100" cy="28" r="8" fill="#D4C4A0" stroke="#B89A60" stroke-width="1"/>
+
+  <!-- Farm name -->
+  <text x="100" y="72" text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="9" font-weight="600" letter-spacing="4"
+    fill="#6B5A30">SALTWIND FARM</text>
+
+  <!-- Thin rule -->
+  <line x1="40" y1="82" x2="160" y2="82" stroke="#B89A60" stroke-width="0.7"/>
+
+  <!-- Variety -->
+  <text x="100" y="130" text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="36" font-weight="700"
+    fill="#1B3A2D">Inchelium</text>
+
+  <!-- Type descriptor -->
+  <text x="100" y="155" text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="16" font-weight="400"
+    fill="#3D5A47">Red</text>
+
+  <!-- Crop type -->
+  <text x="100" y="176" text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="9" letter-spacing="2"
+    fill="#8A7A52">SOFTNECK · BRAIDED</text>
+
+  <!-- Lower rule -->
+  <line x1="40" y1="192" x2="160" y2="192" stroke="#B89A60" stroke-width="0.7"/>
+
+  <!-- Location -->
+  <text x="100" y="218" text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="9" letter-spacing="1"
+    fill="#6B5A30">Whidbey Island, WA</text>
+
+  <!-- Year -->
+  <text x="100" y="236" text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="9" letter-spacing="1"
+    fill="#8A7A52">Harvest 2026</text>
+
+  <!-- Bottom rule -->
+  <line x1="60" y1="252" x2="140" y2="252" stroke="#B89A60" stroke-width="0.5"/>
+
+  <!-- Domain -->
+  <text x="100" y="270" text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="8" letter-spacing="2"
+    fill="#8A7A52">saltwind.farm</text>
+</svg>

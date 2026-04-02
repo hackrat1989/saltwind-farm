@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 420" width="280" height="420">
+  <!-- Label background - kraft paper tone -->
+  <rect width="280" height="420" rx="6" fill="#F4EDD8"/>
+  <!-- Outer border rule -->
+  <rect x="10" y="10" width="260" height="400" rx="4" fill="none" stroke="#C4A96A" stroke-width="1.2"/>
+  <!-- Inner border rule -->
+  <rect x="16" y="16" width="248" height="388" rx="3" fill="none" stroke="#C4A96A" stroke-width="0.5"/>
+
+  <!-- Farm name header -->
+  <text x="140" y="56" text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="10" font-weight="600" letter-spacing="5"
+    fill="#6B5A2E">SALTWIND FARM</text>
+
+  <!-- Divider -->
+  <line x1="50" y1="66" x2="230" y2="66" stroke="#C4A96A" stroke-width="0.8"/>
+
+  <!-- Variety name - large serif -->
+  <text x="140" y="130" text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="52" font-weight="700"
+    fill="#1B3A2D">Music</text>
+
+  <!-- Crop descriptor -->
+  <text x="140" y="158" text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="18" font-weight="400"
+    fill="#3D5A47">Hardneck Garlic</text>
+
+  <!-- Subtitle -->
+  <text x="140" y="180" text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="10" font-weight="400" letter-spacing="2"
+    fill="#8A7A52">PORCELAIN TYPE</text>
+
+  <!-- Mid divider -->
+  <line x1="50" y1="198" x2="230" y2="198" stroke="#C4A96A" stroke-width="0.8"/>
+
+  <!-- Illustrated garlic bulb (simple SVG) -->
+  <g transform="translate(140,248)">
+    <!-- Bulb body -->
+    <ellipse cx="0" cy="12" rx="30" ry="24" fill="#F0E8D0" stroke="#B8A870" stroke-width="1"/>
+    <!-- Clove segments -->
+    <path d="M0,-12 Q-14,0 -12,20 Q0,26 12,20 Q14,0 0,-12Z" fill="none" stroke="#B8A870" stroke-width="0.8"/>
+    <path d="M-12,20 Q-26,8 -28,0 Q-20,-10 0,-12" fill="none" stroke="#B8A870" stroke-width="0.6"/>
+    <path d="M12,20 Q26,8 28,0 Q20,-10 0,-12" fill="none" stroke="#B8A870" stroke-width="0.6"/>
+    <!-- Stem -->
+    <line x1="0" y1="-12" x2="0" y2="-34" stroke="#5A7A50" stroke-width="2" stroke-linecap="round"/>
+    <!-- Leaf wisps -->
+    <path d="M0,-28 Q-10,-38 -16,-32" fill="none" stroke="#5A7A50" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M0,-22 Q10,-32 16,-26" fill="none" stroke="#5A7A50" stroke-width="1.2" stroke-linecap="round"/>
+    <!-- Root threads -->
+    <path d="M-8,34 Q-12,42 -10,48" fill="none" stroke="#B8A870" stroke-width="0.8" stroke-linecap="round"/>
+    <path d="M0,36 Q0,44 2,50" fill="none" stroke="#B8A870" stroke-width="0.8" stroke-linecap="round"/>
+    <path d="M8,34 Q14,42 12,48" fill="none" stroke="#B8A870" stroke-width="0.8" stroke-linecap="round"/>
+  </g>
+
+  <!-- Lower divider -->
+  <line x1="50" y1="316" x2="230" y2="316" stroke="#C4A96A" stroke-width="0.8"/>
+
+  <!-- Provenance block -->
+  <text x="140" y="338" text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="10" font-weight="400" letter-spacing="1"
+    fill="#6B5A2E">Saved seed · Locally adapted</text>
+  <text x="140" y="356" text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="10" font-weight="400" letter-spacing="1"
+    fill="#6B5A2E">Whidbey Island, WA · Est. 2025</text>
+
+  <!-- Divider -->
+  <line x1="80" y1="368" x2="200" y2="368" stroke="#C4A96A" stroke-width="0.5"/>
+
+  <!-- Domain -->
+  <text x="140" y="386" text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="9" font-weight="400" letter-spacing="2"
+    fill="#8A7A52">saltwind.farm</text>
+</svg>
