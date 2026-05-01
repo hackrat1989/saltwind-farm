@@ -355,9 +355,9 @@ a:hover {
 }
 
 .download-btn-icon {
-  width: 6px;
-  height: 6px;
-  flex: 0 0 6px;
+  width: 16px;
+  height: 16px;
+  flex: 0 0 16px;
 }
 
 .download-btn-text {
